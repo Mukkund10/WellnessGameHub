@@ -1,0 +1,8 @@
+The "Documentation" directory is essential for providing clear guidelines, instructions and educational content for both developers and users.
+
+GameGuides: In the GameGuides subfolder, you'll find comprehensive guides and instructions for users to understand and play each wellness game. These guides should cover game mechanics, objectives and any health-related information embedded in the gaming experience. The goal is to ensure users can fully enjoy and benefit from each game.
+
+Developers Docs: For contributors and developers, the Developer Docs subfolder contains technical documentation. This includes details on the code structure, APIs and best practices for developing wellness games. Clear and we;;-documented code ensures a smooth collaborative development process, fostering contributions from developers with various backgrounds.
+
+Health Tips: The Health Tips subfolder is dedicated to educational content related to wellness and health. It includes articles, tips and resources that complement the gaming experience. Provinding users with additional information on healthy living enhances the overall impact of the wellness games and contributes to the repository's mission.
+
